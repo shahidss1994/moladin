@@ -1,0 +1,3 @@
+package com.moladin.com.moladin.dataSource
+
+interface DataSourceManager : RemoteDataSourceInterface, SharedPrefDataSourceInterface
